@@ -1,0 +1,12 @@
+npm init
+npm init -y
+
+npm i --save-exact
+express
+mongoose
+cors
+helmet
+morgan
+dotenv
+
+npm i --save-dev nodemon
